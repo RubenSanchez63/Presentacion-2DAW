@@ -8,7 +8,7 @@ Más tarde se expandió abriendo sucursales en varios puntos de Albania y Qatar.
 ## Tareas desempeñadas
 - **Primeras cuatro semanas:** Se nos encargó el rediseño de la página web de la Universidad de Gjirokäster. Lo hicimos en un Wordpress alojado en el servidor de la misma.
 - **Segundo mes:** Estuvimos asistiendo en el desarrollo de las lecciónes a los alumnos de la Academia, que iban desde los 7-8 años hasta los 18. Impartimos clase de programación en bloques, HTML y CSS básicos, para que tuvieran una base de conocimientos en la materia.
-- **Tercer mes:** Se me confió el desarrollo de la web de la biblioteca de la Universidad, un CRUD de documentos PDF con varios tipos de usuarios, usando PHP. La desarrollé siguiendo la metodología de Modelo Vista Controlador.
+- **Tercer mes:** Se me confió el desarrollo de la web de la biblioteca de la Universidad, un CRUD de documentos PDF con varios tipos de usuarios, usando PHP. La desarrollé siguiendo la metodología de Modelo Vista Controlador. https://github.com/RubenSanchez63/library
 
 ## Herramientas utilizadas
 - **Wordpress**, para el desarrollo de la web de la Universidad.
