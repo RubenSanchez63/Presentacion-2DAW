@@ -1,5 +1,5 @@
 # Presentación de las prácticas en Yes Innovation Academy
-
+https://drive.google.com/file/d/1Of5TLkUtgQWEqc-mpmZ4ZtBfARzSX8bV/view?usp=sharing
 ## Introducción a la empresa
 Fundada en 2019 en Vushtrri, Kosovo, la Yes Innovation Academy fue creada por Ensar Bajrami y Fatbardha Dallku como la primera de su tipo. La academia tiene como objetivo capacitar a los jóvenes con programas modernos que subsanen las deficiencias de la educación pública, ofreciendo habilidades en programación, comunicación, resolución de problemas, pensamiento crítico y trabajo en equipo.
 
